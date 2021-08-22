@@ -134,5 +134,24 @@
 - cliente::::::::::(0%-100%)
 - serviço::::::::::(0%-100%)  
 
+#### Estrutura ITIL:
+
+- Estratégia de serviço:
+- requisitos:
+- necessidades:
+
+- Projeto de serviço:
+- service-design:
+
+- Transição de serviço:
+- #mudanças na  organização: grafos-list         
+
+- Operação de serviço: 
+
+- SLA:
+
+- Melhoria continua:
+- widgets:     
+
 # Referencias:
 *º - Fonte da definiçao de documento: (https://pt.wikipedia.org/wiki/Documento)
