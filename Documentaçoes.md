@@ -55,26 +55,26 @@
 
 
 #### KPI:
-`
-KPI-1) meta:
 
-KPI-2) produtividade:
+- KPI-1) meta:
 
-KPI-3) tolerância:
+- KPI-2) produtividade:
 
-KPI-4) capacidade:
+- KPI-3) tolerância:
 
-KPI-5) qualidade:
+- KPI-4) capacidade:
 
-KPI-6) lucratividade:
+- KPI-5) qualidade:
 
-KPI-7) rentabilidade:
+- KPI-6) lucratividade:
 
-KPI-8) competividade:
+- KPI-7) rentabilidade:
 
-KPI-9) efetividade:
+- KPI-8) competividade:
 
-KPI-10) valor:  `
+- KPI-9) efetividade:
+
+- KPI-10) valor:  
 
 > todos os dados saoa priori do desenvolvedor desenvolve-los.   
 
