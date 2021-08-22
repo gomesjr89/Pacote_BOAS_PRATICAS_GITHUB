@@ -26,7 +26,13 @@ aula pratica de:
 - ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 - Voltando ao assunto `[image]` isso ai é só o texto alternativo. 
-- `<br/>` o pesso usa sem o / mas é errado pois se trata de uma tag html fechada nela mesma. Logo como o img também temos que indicar o fim com o /.                 
+- `<br/>` o pesso usa sem o / mas é errado pois se trata de uma tag html fechada nela mesma. Logo como o img também temos que indicar o fim com o /.
+
+## Emojis
+- Basta procurar "emojis markdown" no tio google e sair olhando até achar codido com 2 pontos, um texto e 2 pontos.<br/>
+- Exemplos:
+>  `:blue_book:`  ou  `:thought_balloon`;          
+
 # REFERENCIAS: 
 - Grupo gps: (https://www.facebook.com/grupofspacificsouth)
 - topicos de markdown 211021: (https://www.facebook.com/grupofspacificsouth/posts/111090844617325) 
