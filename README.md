@@ -105,12 +105,12 @@ Tabelas podem ser escritas da seguinte forma:
     -     | Permissão desabilitada  `
 
 
-   Caracter | Permissão
-    ---------|----------
-    r     | Permissão de leitura (*read*)
-    w     | Permissão de escrita (*write*)
-    x      | Permissão de execução (*execute*)
-   `- `      | Permissão desabilitada 
+ | Caracter | Permissão |
+ | --------- | ---------- |
+ |   r     | Permissão de leitura (*read*)
+ |   w     | Permissão de escrita (*write*)
+ |   x      | Permissão de execução (*execute*)
+ |  `- `      | Permissão desabilitada 
 
 
 
