@@ -236,6 +236,54 @@
 
 - hibrida:(OBSERVAÇÕES)  
 
+###### MODELO KAMBAM COMPLETO
+
+***
+- Backlog:
+- =>
+
+- TO-DO:
+- =>
+       
+- Plan:
+- =>
+          
+- Dev:
+- =>
+
+- Test:
+- =>
+
+
+- Deploy:
+- =>
+
+- Analyze:
+- =>
+***
+
+# ATUALIDADE:
+
+***
+
+- U:
+
+
+- TODO:#
+
+      
+- DOING:
+
+
+- DONE:
+***
+
+#### PMBOK: DOCUMENTo
+- Inicio:
+- planejamento:
+- execução:
+- monitoramento e controle:
+- Meta-benta:                       
 
 
 # Referencias:
