@@ -84,28 +84,30 @@
 > aplicar a cada 15 dias;
 
 ##### Seção S:
-WHO: pessoas envolvidas
-WHAT:  o que está a  realizar
-WHEN:  estrutura do tempo
-WHY: razões  e propósitos
-WHERE: identifica o local
+- WHO: pessoas envolvidas
+- WHAT:  o que está a  realizar
+- WHEN:  estrutura do tempo
+- WHY: razões  e propósitos
+- WHERE: identifica o local
 
 ##### Seção M:
-//Mensurar prazos 
-(curto:
-(médio:
-(longo:
+> /Mensurar prazos 
+- (curto:
+- (médio:
+- (longo:
        
 ##### Seção A:
-+(TODO) -> ("Objetivo desafiador e possivel");
+> Objetivo desafiador e possivel
+
+- (TODO) 
 
 ##### Seção R:
-+(DOING) -> ("relevar metas");
+- (DOING) -> ("relevar metas");
 
 ##### Seção T:
-// temporal 
-lei de parkinson: nos adequamosa  prazos.
-+(U) -> ("ADD  painel de prazos com frase acima")   
+- // temporal 
+- lei de parkinson: nos adequamosa  prazos.
+- (U) -> ("ADD  painel de prazos com frase acima")   
 
 
 # Referencias:
