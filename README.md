@@ -59,19 +59,14 @@ aula pratica de:
 
 Utiliza-se 4 espaços para criar uma sub-lista. Atentem para o quatro.  Visitem o codigo se puder. Este aqui. OLhem o codigo fonte( o codigo antes de compilado)          
 
+` 1. Primeiro item    - Um sub-item    - Outro sub-item 2. Segundo item 3. Terceiro item ` 
+
+
 1. Primeiro item
     - Um sub-item
     - Outro sub-item
 2. Segundo item
 3. Terceiro item
-
-    Primeiro item
-        Um sub-item
-        Outro sub-item
-    Segundo item
-    Terceiro item
-
-
 
 
 
