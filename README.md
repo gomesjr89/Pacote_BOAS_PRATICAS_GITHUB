@@ -14,7 +14,7 @@ aula pratica de:
 ## Apresentaçao:
  - > Um pacote fantastico pra voce se divertir.
          
-## Linguagens & redes sociais:
+## Linguagens & redes sociais:(imagens) 
 -  Pessoal vamos começar com imagens a formula é esta:       
 > `![image]({BadgeURLHere})`.<br/>
 - {BadgeURLHere} isso ai voce substitui pela url ou caminho do server ou mesmo pelo tal famoso link.   
