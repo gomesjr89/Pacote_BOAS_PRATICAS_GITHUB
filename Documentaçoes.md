@@ -110,6 +110,15 @@
 - (U) 
 > ADD painel de prazos com frase acima   
 
+#### SWOT:
+
+![IMAGE](https://wbn-usa.com/wp-content/uploads/2019/11/modelo-de-matriz-swot-1024x683-1.jpg)
+
+<br/>
+
+> Aplicar a cada 15 dias.
+       
+<br/>
 
 # Referencias:
 *º - Fonte da definiçao de documento: (https://pt.wikipedia.org/wiki/Documento)
