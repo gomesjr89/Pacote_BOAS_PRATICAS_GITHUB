@@ -78,5 +78,35 @@
 
 > todos os dados saoa priori do desenvolvedor desenvolve-los.   
 
+
+#### Técnica  SMART 
+
+> aplicar a cada 15 dias;
+
+##### Seção S:
+WHO: pessoas envolvidas
+WHAT:  o que está a  realizar
+WHEN:  estrutura do tempo
+WHY: razões  e propósitos
+WHERE: identifica o local
+
+##### Seção M:
+//Mensurar prazos 
+(curto:
+(médio:
+(longo:
+       
+##### Seção A:
++(TODO) -> ("Objetivo desafiador e possivel");
+
+##### Seção R:
++(DOING) -> ("relevar metas");
+
+##### Seção T:
+// temporal 
+lei de parkinson: nos adequamosa  prazos.
++(U) -> ("ADD  painel de prazos com frase acima")   
+
+
 # Referencias:
 *º - Fonte da definiçao de documento: (https://pt.wikipedia.org/wiki/Documento)
