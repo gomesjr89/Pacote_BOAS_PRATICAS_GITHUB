@@ -15,7 +15,7 @@ aula pratica de:
  - > Um pacote fantastico pra voce se divertir.
          
 ## Linguagens & redes sociais:
-> `![image]({BadgeURLHere})`
+> `![image]({BadgeURLHere})`.<br/>
  ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
  ![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
  ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -25,3 +25,4 @@ aula pratica de:
 - topicos de markdown 211021: (https://www.facebook.com/grupofspacificsouth/posts/111090844617325) 
 - Mind map: (https://www.mindmeister.com/1994055971?t=B5RYsxoB5f&e=turtle) 
 - Emojis usados vem de : (https://gist.github.com/rxaviers/7360908) 
+- images: (https://github.com/alexandresanlim/Badges4-README.md-Profile) 
