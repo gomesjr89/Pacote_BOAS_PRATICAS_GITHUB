@@ -124,5 +124,16 @@
        
 <br/>
 
+
+
+#### SLA
+
+> service level agreement 
+
+- nivel de foco no:
+<br/>
+- cliente::::::::::(0%-100%)
+- serviço::::::::::(0%-100%)  
+
 # Referencias:
 *º - Fonte da definiçao de documento: (https://pt.wikipedia.org/wiki/Documento)
