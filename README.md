@@ -34,12 +34,12 @@ aula pratica de:
 >  `:blue_book:`  ou  `:thought_balloon`;          
 
 ## Italico:
--`*Este texto esta em itálico.*`
--*Este texto esta em itálico.*
+- `*Este texto esta em itálico.*`
+- *Este texto esta em itálico.*
 
 ## Negrito:
--`**Este texto esta em negrito.**`
--**Este texto esta em negrito.**
+- `**Este texto esta em negrito.**`
+- **Este texto esta em negrito.**
 
 # REFERENCIAS: 
 - Grupo gps: (https://www.facebook.com/grupofspacificsouth)
