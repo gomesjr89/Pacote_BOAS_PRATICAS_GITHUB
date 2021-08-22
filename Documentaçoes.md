@@ -1,6 +1,6 @@
 # Documentation 
 
-1 DOC
+1. DOC
     - Normatividade
     - Planos de marketing
     - Imagens 
