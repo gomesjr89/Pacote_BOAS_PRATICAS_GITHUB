@@ -14,7 +14,7 @@ aula pratica de:
 ## Apresentaçao:
  - > Um pacote fantastico pra voce se divertir.
          
-## Linguagens & redes sociais: (imagens) 
+## Linguagens & redes sociais: (imagens) (linhas de parada, break lines)     
 -  Pessoal vamos começar com imagens a formula é esta:       
 > `![image]({BadgeURLHere})`.<br/>
 - {BadgeURLHere} isso ai voce substitui pela url ou caminho do server ou mesmo pelo tal famoso link.   
@@ -23,7 +23,7 @@ aula pratica de:
 - ![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 - ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - Voltando ao assunto `[image]` isso ai é só o texto alternativo. 
-      
+- `<br/>` o pesso usa sem o / mas é errado pois se trata de uma tag html fechada nela mesma. Logo como o img também temos que indicar o fim com o /.                 
 # REFERENCIAS: 
 - Grupo gps: (https://www.facebook.com/grupofspacificsouth)
 - topicos de markdown 211021: (https://www.facebook.com/grupofspacificsouth/posts/111090844617325) 
