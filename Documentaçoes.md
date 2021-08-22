@@ -225,14 +225,14 @@
 
 
 - Por entregar:
-- (# TODO)
+- elementos (TODO)
  
 
 - Por subprojeto: (mini projeto)
-- #1 
 
-- todo
-- #13               
+
+- elementos (todo)
+               
 
 - hibrida:(OBSERVAÇÕES)  
 
