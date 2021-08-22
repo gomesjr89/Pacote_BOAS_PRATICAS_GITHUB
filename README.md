@@ -11,9 +11,15 @@ aula pratica de:
 > - :blue_book: DOCS
 > - :blue_book: GITHUB
 
-## apresentaçao    
-
-
+## Apresentaçao:
+ - > Um pacote fantastico pra voce se divertir.
+         
+## Linguagens & redes sociais:
+> `![image]({BadgeURLHere})`
+ ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+ ![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+ ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+ 
 # REFERENCIAS: 
 - Grupo gps: (https://www.facebook.com/grupofspacificsouth)
 - topicos de markdown 211021: (https://www.facebook.com/grupofspacificsouth/posts/111090844617325) 
