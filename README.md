@@ -112,6 +112,8 @@ Tabelas sao escritas da assim :
  |   w     | Permissão de escrita (*write*)|
  |   x     | Permissão de execução (*execute*)|
  |  `- `   | Permissão desabilitada |*¹¹º 
+## Lista de tarefas:(todo-list)   
+
 
 
 
