@@ -44,5 +44,39 @@
 
 > Todas imagens referente a construçao do back-end (parte de dados do site, relacionado aos databases seja em .sql,.JSON, .DAT ou  outro)   
 
+## Normatividade
+
+> Normas de projeto, regrinhas a serem seguidas
+- O.B.S.: Essa configuraçao masterizada é a minha ta? Você configura a sua.Eu só forneço e você decide com qual ou  com  quais vai trabalhar.            
+
+### FEEDBACK
+
+> (resposta dos usuarios ou outros integrantes do grupo de desenvvolvedores da aplicaçao)
+
+
+#### KPI:
+`
+KPI-1) meta:
+
+KPI-2) produtividade:
+
+KPI-3) tolerância:
+
+KPI-4) capacidade:
+
+KPI-5) qualidade:
+
+KPI-6) lucratividade:
+
+KPI-7) rentabilidade:
+
+KPI-8) competividade:
+
+KPI-9) efetividade:
+
+KPI-10) valor:  `
+
+> todos os dados saoa priori do desenvolvedor desenvolve-los.   
+
 # Referencias:
 *º - Fonte da definiçao de documento: (https://pt.wikipedia.org/wiki/Documento)
