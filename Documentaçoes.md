@@ -218,8 +218,7 @@
 	- 
     - todo:
 	- check:
-
-#### EAP: 
+0#### EAP: 
 
 - Por fazer: (ciclo de vida)
 
@@ -316,7 +315,7 @@
 	
 # tamanho do conteudo:(regra dos +45%)
 	
-> ter sempre mais q ue 45% do que a maior concorrenca em termos de conteudi  
+> ter sempre mais q ue 45% do que a maior concorrencia em termos de conteudo 
 
 - O.B.S.:taxa de rejeição sempre é maior que >49% 
 	
