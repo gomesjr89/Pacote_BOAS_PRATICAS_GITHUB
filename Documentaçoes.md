@@ -167,6 +167,75 @@
 - padrão de qualidade:
 - previsão de teste:
                  
+### CALENDARIO 
+
+>  Paineis relacionados a tempo , ao calendario em especifico.   
+#### PAINEL.PDCA
+- Mandamentos  do PDCA:
+
+	- 1: Fazer tudo planejado;
+
+	- 2: Não parar após uma volta;
+
+	- 3: agir conectivamente;
+
+	- 4: Fazer e checar;
+
+	- 5: Ter pessoal qualificado;
+
+	- 6: Dominar os metodos;                
+	
+	
+
+	- 1: Fazer tudo planejado;
+	PLANEjamento:
+	status uo: 
+	descriçao:
+	-
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+	   
+	
+
+	- 3: membros integrados:
+	- status
+	- descriçao   ;
+
+	- 4: Fazer e checar;
+	- todo:
+	- check:
+	- 
+	- todo:
+	- check:
+	- 
+	- todo:
+	- check:
+	- 
+    - todo:
+	- check:
+
+#### EAP: 
+
+- Por fazer: (ciclo de vida)
+
+
+- Por entregar:
+- (# TODO)
+ 
+
+- Por subprojeto: (mini projeto)
+- #1 
+
+- todo
+- #13               
+
+- hibrida:(OBSERVAÇÕES)  
+
 
 
 # Referencias:
