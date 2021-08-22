@@ -5,8 +5,8 @@ aula pratica de:
 - documentaçao(SEO + docs) 
 - github intermediario   
 
-# :thought_balloon: INTRODUÇAO
-^1
+# :thought_balloon: INTRODUÇAO*¹
+
 > - :blue_book: .md
 > - :blue_book: SEO
 > - :blue_book: DOCS
