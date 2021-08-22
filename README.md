@@ -22,7 +22,8 @@ aula pratica de:
 - ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - ![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 - ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
- 
+- Voltando ao assunto `[image]` isso ai é só o texto alternativo. 
+      
 # REFERENCIAS: 
 - Grupo gps: (https://www.facebook.com/grupofspacificsouth)
 - topicos de markdown 211021: (https://www.facebook.com/grupofspacificsouth/posts/111090844617325) 
