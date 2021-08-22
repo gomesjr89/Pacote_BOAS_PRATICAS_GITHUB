@@ -1,6 +1,10 @@
 # Documentation 
 
-1. DOC
-    - Normatividade
-    - Planos de marketing
-    - Imagens 
+
+## Sumario (DOCs)
+
+2. DOC
+    - a.Imagens 
+    - b.Normatividade
+    - c.lanos de marketing
+
