@@ -9,7 +9,23 @@
         - aa. DOC-FR
         - ab. DOC-BCK
     - b.Normatividade
+        - FEEDBACK
+            - KPI
+            - SMART15 
+            - SWOT  
+        - CONTROLE DE ESTILO
+            - SLA
+            - ITIL
+            - SOW 
+        - CALENDARIO   
+            - PAINEL.PDCA
+            - PMBOK
+            - EAP   
     - c.planos de marketing
+        - SEO
+            - social_media
+            - SEMRush
+            - Google
     
 # Conceito:
 
