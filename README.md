@@ -41,6 +41,41 @@ aula pratica de:
 - `**Este texto esta em negrito.**`
 - **Este texto esta em negrito.**
 
+## Listas não-ordenadas
+` - Primeiro item - Segundo item - Terceiro item `<br/>
+   - Listas nao ordenadas sao só tracinhos mesmo.     
+   - Primeiro item
+   - Segundo item
+   - Terceiro item
+
+## Listas ordenadas
+` 1. Primeiro item 2. Segundo item 3. Terceiro item `
+    Listas ordenadas sao listas com numeros na frente.      
+   1. Primeiro item
+   2. Segundo item
+   3. Terceiro item
+
+## Sub-listas
+
+Utiliza-se 4 espaços para criar uma sub-lista. Atentem para o quatro.  Visitem o codigo se puder. Este aqui. OLhem o codigo fonte( o codigo antes de compilado)          
+
+1. Primeiro item
+    - Um sub-item
+    - Outro sub-item
+2. Segundo item
+3. Terceiro item
+
+    Primeiro item
+        Um sub-item
+        Outro sub-item
+    Segundo item
+    Terceiro item
+
+
+
+
+
+
 # REFERENCIAS: 
 - Grupo gps: (https://www.facebook.com/grupofspacificsouth)
 - topicos de markdown 211021: (https://www.facebook.com/grupofspacificsouth/posts/111090844617325) 
