@@ -116,9 +116,9 @@ Tabelas sao escritas da assim :
 
 
 # REFERENCIAS: 
-- ^1 Grupo gps: (https://www.facebook.com/grupofspacificsouth)
-- topicos de markdown 211021: (https://www.facebook.com/grupofspacificsouth/posts/111090844617325) 
-- Mind map: (https://www.mindmeister.com/1994055971?t=B5RYsxoB5f&e=turtle) 
-- Emojis usados vem de : (https://gist.github.com/rxaviers/7360908) 
-- Imagens: (https://github.com/alexandresanlim/Badges4-README.md-Profile) 
-- R markdown (http://cursos.leg.ufpr.br/prr/capMarkdown.html)
+- *¹   Grupo gps: (https://www.facebook.com/grupofspacificsouth)
+- *¹º  topicos de markdown 211021: (https://www.facebook.com/grupofspacificsouth/posts/111090844617325) 
+- *¹¹  Mind map: (https://www.mindmeister.com/1994055971?t=B5RYsxoB5f&e=turtle) 
+- *¹ºº Emojis usados vem de : (https://gist.github.com/rxaviers/7360908) 
+- *¹º¹ Imagens: (https://github.com/alexandresanlim/Badges4-README.md-Profile) 
+- *¹¹º R markdown (http://cursos.leg.ufpr.br/prr/capMarkdown.html)
