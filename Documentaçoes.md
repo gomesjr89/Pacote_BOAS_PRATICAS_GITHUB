@@ -107,7 +107,8 @@
 ##### Seção T:
 - // temporal 
 - lei de parkinson: nos adequamosa  prazos.
-- (U) -> ("ADD  painel de prazos com frase acima")   
+- (U) 
+> ADD painel de prazos com frase acima   
 
 
 # Referencias:
