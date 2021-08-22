@@ -115,7 +115,16 @@ Tabelas sao escritas da assim :
 ## Lista de tarefas:(todo-list)   
 
 
+  `- [ ] PROJECT 1;`<br/>
+ ` - [ ] PROJECT 2;`<br/>
+ `- [ ] PROJECT 3;`<br/>
 
+
+
+
+- [ ] PROJECT 1;
+- [ ] PROJECT 2;
+- [ ] PROJECT 3;
 
 # REFERENCIAS: 
 - *¹   Grupo gps: (https://www.facebook.com/grupofspacificsouth)
