@@ -6,10 +6,10 @@ aula pratica de:
 - github intermediario   
 
 # INTRODUÇAO
-> - .md
-> - SEO
-> - DOCS
-> - GITHUB
+> - :blue_book: .md
+> - :blue_book: SEO
+> - :blue_book: DOCS
+> - :blue_book: GITHUB
 
 ## apresentaçao    
 
