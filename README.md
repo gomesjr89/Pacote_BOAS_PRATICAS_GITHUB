@@ -33,6 +33,14 @@ aula pratica de:
 - Exemplos:
 >  `:blue_book:`  ou  `:thought_balloon`;          
 
+## Italico:
+`*Este texto esta em itálico.*`
+-*Este texto esta em itálico.*
+
+## Negrito:
+`**Este texto esta em negrito.**`
+-**Este texto esta em negrito.**
+
 # REFERENCIAS: 
 - Grupo gps: (https://www.facebook.com/grupofspacificsouth)
 - topicos de markdown 211021: (https://www.facebook.com/grupofspacificsouth/posts/111090844617325) 
