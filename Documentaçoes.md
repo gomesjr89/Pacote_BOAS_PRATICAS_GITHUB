@@ -283,7 +283,27 @@
 - planejamento:
 - execução:
 - monitoramento e controle:
-- Meta-benta:                       
+- Meta-benta:
+
+# SEO_SOCIAL_MEDIA 
+
+> numero de post ou links
+
+- MEDIUM:/<integer>;
+
+- LINKEDIN:/<integer>;
+                    
+- FACEBOOK:/<integer>;  
+
+- YOUTUBE:/<integer>;
+
+- TWITTER TAGS:/<integer>;
+
+- TWITTER:/<integer>;
+
+- INSTAGRAM:/<integer>;                    
+
+- COMUNIDADES E FORUNS #1:/<integer>; 
 
 
 # Referencias:
