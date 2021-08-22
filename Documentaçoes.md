@@ -6,5 +6,5 @@
 2. DOC
     - a.Imagens 
     - b.Normatividade
-    - c.lanos de marketing
+    - c.planos de marketing
 
