@@ -97,12 +97,12 @@ Para criar parágrafos basta pular uma linha.
 
 Tabelas podem ser escritas da seguinte forma:
 
-  `| Caracter | Permissão |`
- ` | --------- | ---------- |`
- ` |   r     | Permissão de leitura (*read*)|`
- ` |   w     | Permissão de escrita (*write*)|`
- ` |   x      | Permissão de execução (*execute*)|`
- ` |   -      | Permissão desabilitada | `
+  `| Caracter | Permissão |`<br/>
+ ` | --------- | ---------- |`<br/>
+ ` |   r     | Permissão de leitura (*read*)|`<br/>
+ ` |   w     | Permissão de escrita (*write*)|`<br/>
+ ` |   x      | Permissão de execução (*execute*)|`<br/>
+ ` |   -      | Permissão desabilitada | `<br/>
 
 
  | Caracter | Permissão |
