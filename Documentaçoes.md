@@ -1,4 +1,4 @@
-# Documentation 
+# Doc
 
 - Conceito:
 
@@ -7,32 +7,42 @@
 
 ## Sumario (DOCs)
 
-2. DOC
-    - t.Conceito
-    - a.Imagens 
-        - aa. DOC-FR
-        - ab. DOC-BCK
-    - b.Normatividade
-        - FEEDBACK
-            - KPI
-            - SMART15 
-            - SWOT  
-        - CONTROLE DE ESTILO
-            - SLA
-            - ITIL
-            - SOW 
-        - CALENDARIO   
-            - PAINEL.PDCA
-            - PMBOK
-            - EAP   
-    - c.planos de marketing
-        - SEO
-            - social_media
-            - SEMRush
-            - Google
+1. DOC
+    - 2.Conceito
+    - 2.Imagens 
+        - 3. DOC-FR
+        - 3. DOC-BCK
+    - 2.Normatividade
+        - 3. FEEDBACK
+            - 4. KPI
+            - 4. SMART15 
+            - 4. SWOT  
+        - 3. CONTROLE DE ESTILO
+            - 4. SLA
+            - 4. ITIL
+            - 4. SOW 
+        - 3. CALENDARIO   
+            - 4. PAINEL.PDCA
+            - 4. PMBOK
+            - 4. EAP   
+    - 2.planos de marketing
+        - 3. SEO
+            - 4. social_media
+            - 4. SEMRush
+            - 4. Google
     
 
+## Imagens:
 
+> Onde esta contida  essas duas pastas    
+
+### DOC-FR
+
+> Todas imagens referente a construçao do front-end (parte visual do site)      
+
+### DOC-BCK
+
+> Todas imagens referente a construçao do back-end (parte de dados do site, relacionado aos databases seja em .sql,.JSON, .DAT ou  outro)   
 
 # Referencias:
 *º - Fonte da definiçao de documento: (https://pt.wikipedia.org/wiki/Documento)
