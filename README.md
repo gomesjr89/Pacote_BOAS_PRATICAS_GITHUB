@@ -5,7 +5,7 @@ aula pratica de:
 - documentaçao(SEO + docs) 
 - github intermediario   
 
-# :thought_balloon: INTRODUÇAO*¹
+# :thought_balloon:*¹ºº INTRODUÇAO*¹
 
 > - :blue_book: .md
 > - :blue_book: SEO
@@ -22,10 +22,10 @@ aula pratica de:
 > `![image]({BadgeURLHere})`.<br/>
 - {BadgeURLHere} isso ai voce substitui pela url ou caminho do server ou mesmo pelo tal famoso link.   
 > Exemplos: <br/>
-- ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-- ![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-- ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-- ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+- ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)*¹º¹
+- ![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)*¹º
+- ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)*¹º¹
+- ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)*¹º¹
 - Voltando ao assunto `[image]` isso ai é só o texto alternativo. 
 - `<br/>` o pesso usa sem o / mas é errado pois se trata de uma tag html fechada nela mesma. Logo como o img também temos que indicar o fim com o /.
 
@@ -110,8 +110,8 @@ Tabelas sao escritas da assim :
  | --------- | ---------- |
  |   r     | Permissão de leitura (*read*)|
  |   w     | Permissão de escrita (*write*)|
- |   x      | Permissão de execução (*execute*)|
- |  `- `      | Permissão desabilitada |
+ |   x     | Permissão de execução (*execute*)|
+ |  `- `   | Permissão desabilitada |*¹¹º 
 
 
 
@@ -121,4 +121,4 @@ Tabelas sao escritas da assim :
 - *¹¹  Mind map: (https://www.mindmeister.com/1994055971?t=B5RYsxoB5f&e=turtle) 
 - *¹ºº Emojis usados vem de : (https://gist.github.com/rxaviers/7360908) 
 - *¹º¹ Imagens: (https://github.com/alexandresanlim/Badges4-README.md-Profile) 
-- *¹¹º R markdown (http://cursos.leg.ufpr.br/prr/capMarkdown.html)
+- *¹¹º FOnte: R markdown (http://cursos.leg.ufpr.br/prr/capMarkdown.html)
