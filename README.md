@@ -1,6 +1,6 @@
 # Pacote BOAS PRATICAS GITHUB 
 
-aula pratica de:
+Aula pratica de:
 - markdown 
 - documentaçao(SEO + docs) 
 - github intermediario   
