@@ -95,7 +95,7 @@ Para criar parágrafos basta pular uma linha.
 
 ## Tabelas
 
-Tabelas podem ser escritas da seguinte forma:
+Tabelas sao escritas da assim :
 
   `| Caracter | Permissão |`<br/>
  ` | --------- | ---------- |`<br/>
@@ -120,3 +120,4 @@ Tabelas podem ser escritas da seguinte forma:
 - Mind map: (https://www.mindmeister.com/1994055971?t=B5RYsxoB5f&e=turtle) 
 - Emojis usados vem de : (https://gist.github.com/rxaviers/7360908) 
 - Imagens: (https://github.com/alexandresanlim/Badges4-README.md-Profile) 
+- R markdown (http://cursos.leg.ufpr.br/prr/capMarkdown.html)
