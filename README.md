@@ -123,4 +123,4 @@ Tabelas sao escritas da assim :
 - *¹¹  Mind map: (https://www.mindmeister.com/1994055971?t=B5RYsxoB5f&e=turtle) 
 - *¹ºº Emojis usados vem de : (https://gist.github.com/rxaviers/7360908) 
 - *¹º¹ Imagens: (https://github.com/alexandresanlim/Badges4-README.md-Profile) 
-- *¹¹º FOnte: R markdown (http://cursos.leg.ufpr.br/prr/capMarkdown.html)
+- *¹¹º Fonte: R markdown (http://cursos.leg.ufpr.br/prr/capMarkdown.html)
