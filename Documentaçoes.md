@@ -128,7 +128,7 @@
 
 #### SLA
 
-> service level agreement 
+> hostservice level agreement 
 
 - nivel de foco no:
 - cliente::::::::::(0%-100%)
@@ -288,3 +288,8 @@
 
 # Referencias:
 *º - Fonte da definiçao de documento: (https://pt.wikipedia.org/wiki/Documento)
+
+# Principais referencias: 
+- (https://shields.io/)
+- (https://github.com/)
+- (https://trello.com)
