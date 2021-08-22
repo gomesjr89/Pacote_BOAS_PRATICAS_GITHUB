@@ -131,7 +131,6 @@
 > service level agreement 
 
 - nivel de foco no:
-<br/>
 - cliente::::::::::(0%-100%)
 - serviço::::::::::(0%-100%)  
 
