@@ -305,7 +305,21 @@
 
 - COMUNIDADES E FORUNS #1:/<integer>; 
 
+# SEO_SEMRush:(focos);
+	
+- visitas diretas no site:
+- quantidade de páginas acessadas: 
+- taxa de rejeição:
+- total de dominios de referencia:
 
+- tamanho do conteudo:
+	
+# tamanho do conteudo:(regra dos +45%)
+	
+> ter sempre mais q ue 45% do que a maior concorrenca em termos de conteudi  
+
+- O.B.S.:taxa de rejeição sempre é maior que >49% 
+	
 # Referencias:
 *º - Fonte da definiçao de documento: (https://pt.wikipedia.org/wiki/Documento)
 
