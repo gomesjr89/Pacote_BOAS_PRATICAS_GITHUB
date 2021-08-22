@@ -72,6 +72,44 @@ aula pratica de:
 2. Segundo item
 3. Terceiro item
 
+## Links
+
+Links para endereços Web podem ser inseridos com [texto](link). Voces entenderam né? texto entre esses negocinhos e o link entre parenteses.  
+
+` O criador do conceito de "literate programming" foi
+[Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth).` 
+
+O criador do conceito de “literate programming” foi Donald Knuth.
+
+` Devemos instalar o pacote [knitr](http://yihui.name/knitr) para poder
+usar o R Markdown.` 
+
+Devemos instalar o pacote knitr para poder usar o R Markdown.
+
+## Parágrafo
+
+Para criar parágrafos basta pular uma linha.
+
+## Códigos (codes):
+```o texto entre duas crases (`):```
+
+## Tabelas
+
+Tabelas podem ser escritas da seguinte forma:
+
+  ```  Caracter | Permissão
+    ---------|----------
+    r     | Permissão de leitura (*read*)
+    w      | Permissão de escrita (*write*)
+    x    | Permissão de execução (*execute*)
+    -     | Permissão desabilitada  ```
+
+    Caracter | Permissão
+    ---------|----------
+    `r`      | Permissão de leitura (*read*)
+    `w`      | Permissão de escrita (*write*)
+    `x`      | Permissão de execução (*execute*)
+    `-`      | Permissão desabilitada 
 
 
 
