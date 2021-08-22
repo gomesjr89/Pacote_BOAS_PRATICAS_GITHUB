@@ -50,14 +50,18 @@ aula pratica de:
 
 ## Listas ordenadas
 ` 1. Primeiro item 2. Segundo item 3. Terceiro item `
-    Listas ordenadas sao listas com numeros na frente.      
+   - Listas ordenadas sao listas com numeros na frente.      
    1. Primeiro item
    2. Segundo item
    3. Terceiro item
 
 ## Sub-listas
 
-Utiliza-se 4 espaços para criar uma sub-lista. Atentem para o quatro.  Visitem o codigo se puder. Este aqui. OLhem o codigo fonte( o codigo antes de compilado)          
+- Utiliza-se 4 espaços para criar uma sub-lista. 
+- Atentem para o quatro.
+- Visitem o codigo se puder. 
+- Este aqui. Olhem o codigo fonte (o codigo antes de compilado)
+- Vejam o curso e tal.            
 
 ` 1. Primeiro item    - Um sub-item    - Outro sub-item 2. Segundo item 3. Terceiro item ` 
 
