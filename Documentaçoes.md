@@ -153,5 +153,21 @@
 - Melhoria continua:
 - widgets:     
 
+#### SOW 
+
+> STATEMENT OF WORK 
+> / (NOME E OUTROS)
+
+- Nome:
+- resultado negociado:
+- quantidade: 
+- descrição dos usos dos dados:
+- especificações técnicas: 
+- compartibilidade: 
+- padrão de qualidade:
+- previsão de teste:
+                 
+
+
 # Referencias:
 *º - Fonte da definiçao de documento: (https://pt.wikipedia.org/wiki/Documento)
